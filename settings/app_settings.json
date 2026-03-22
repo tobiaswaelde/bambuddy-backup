@@ -58,6 +58,8 @@
     "prometheus_enabled": "false",
     "prometheus_token": "",
     "spoolman_disable_weight_sync": "false",
-    "spoolman_report_partial_usage": "true"
+    "spoolman_report_partial_usage": "true",
+    "advanced_auth_enabled": "false",
+    "smtp_auth_enabled": "true"
   }
 }
