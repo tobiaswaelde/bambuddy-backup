@@ -4,6 +4,8 @@
   "contents": {
     "kprofiles": true,
     "cloud_profiles": true,
-    "settings": true
+    "settings": true,
+    "spools": false,
+    "archives": false
   }
 }
